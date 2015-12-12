@@ -1,2 +1,2 @@
 # Documentation
-Simple repository to store documentation on current projects
+This is my first commit to a GitHub repository, where I will store documentation. I will update this later. 
